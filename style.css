@@ -109,6 +109,10 @@ flex-direction: column;
     bottom: 25px;
 }
 
+.songInfo img{
+    opacity: 0;
+    transition: opacity 1s ease-in;
+}
 
 
 
